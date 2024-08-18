@@ -53,5 +53,5 @@ Contributions are welcome! If you have suggestions, improvements, or bug reports
 
 ![WhatsApp Image 2024-08-18 at 18 05 56_f94cf910](https://github.com/user-attachments/assets/796c88c8-26b2-49b7-a81c-daa3eaf3d887)
 ![WhatsApp Image 2024-08-18 at 18 07 07_508eea2d](https://github.com/user-attachments/assets/e6a4272f-32d1-40c6-b10e-ee3174ef451d)
-![WhatsApp Image 2024-08-18 at 19 34 34_fb9966cf](https://github.com/user-attachments/assets/99b2b99c-7c7a-43dd-9cb7-56dd9a907aaf)
+![WhatsApp Image 2024-08-18 at 19 36 50_21214c60](https://github.com/user-attachments/assets/7cf47973-a5d9-46cf-a728-a09683cc2375)
 ![WhatsApp Image 2024-08-18 at 18 08 05_cf8664b0](https://github.com/user-attachments/assets/34f4b3cd-f97a-4dff-80a1-4ea3c3c73c58)
