@@ -48,7 +48,7 @@ pip install panel pandas matplotlib bokeh plotly seaborn yfinance
 
 Start Jupyter Notebook or JupyterLab
 
-Contributing
+
 Contributions are welcome! If you have suggestions, improvements, or bug reports, please open an issue or submit a pull request.
 
 ![WhatsApp Image 2024-08-18 at 18 05 56_f94cf910](https://github.com/user-attachments/assets/796c88c8-26b2-49b7-a81c-daa3eaf3d887)
