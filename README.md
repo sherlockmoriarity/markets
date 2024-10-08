@@ -30,6 +30,7 @@ Global Markets Dashboard is a comprehensive project designed to analyze and visu
 👉yfinance: To fetch and analyze financial data from Yahoo Finance.
 
 🤸 Quick Start
+
 Make sure you have the following installed on your machine:
 1.python
 2.Git
