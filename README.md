@@ -36,8 +36,8 @@ Make sure you have the following installed on your machine:
 
 🚨Cloning the Repository
 
-git clone https://github.com/yourusername/global_vis.git
-cd global_vis
+git clone https://github.com/sherlockmoriarity/markets.git
+cd markets
 
 Install Dependencies:
 
