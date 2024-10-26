@@ -18,7 +18,8 @@ Global Markets Dashboard is a comprehensive project designed to analyze and visu
 CAGR (Compound Annual Growth Rate)
 The CAGR helps track the consistent annual growth rate of an investment over a period, assuming reinvestment. This is calculated as:
 
-![cagr_formula](https://github.com/user-attachments/assets/80c8fbd5-9e47-43c9-818d-1e394d4f8794)
+![image](https://github.com/user-attachments/assets/d78ec487-d432-4f2b-b240-3305d2874457)
+
 
 
 Ending Value: Final index value at the end of the period
