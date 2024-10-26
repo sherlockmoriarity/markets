@@ -15,7 +15,9 @@ Global Markets Dashboard is a comprehensive project designed to analyze and visu
 👉Customizable Dashboards: Use Panel for interactive and dynamic dashboards tailored to specific analysis needs.
 
 📊 Methodology
+
 CAGR (Compound Annual Growth Rate)
+
 The CAGR helps track the consistent annual growth rate of an investment over a period, assuming reinvestment. This is calculated as:
 
 ![cagr_formula_white_text](https://github.com/user-attachments/assets/83b9b928-7e8a-4fc3-8b6f-7d94565e37b6)
@@ -27,7 +29,7 @@ Ending Value: Final index value at the end of the period
 
 Beginning Value: Initial index value at the start of the period
 
-n: Number of years in the time frame
+n: Number of years in the time frame(10 years here)
 
 ⚙️ Tech Stack
 
