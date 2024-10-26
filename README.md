@@ -8,10 +8,24 @@ Global Markets Dashboard is a comprehensive project designed to analyze and visu
 
 👉Interactive Charts: Visualize stock market data for indices S&P 500, BSE, SSE, and FTSE.
 
-👉Economic Indicators: Compare GDP growth, inflation rates, and annual returns for various countries.
+👉Economic Indicators: Compare CAGR, GDP growth, inflation rates, and annual returns for various countries.
+
 👉Sectoral Analysis: Create pie charts and other visualizations to analyze sectoral data.
 
 👉Customizable Dashboards: Use Panel for interactive and dynamic dashboards tailored to specific analysis needs.
+
+📊 Methodology
+CAGR (Compound Annual Growth Rate)
+The CAGR helps track the consistent annual growth rate of an investment over a period, assuming reinvestment. This is calculated as:
+
+![cagr_formula](https://github.com/user-attachments/assets/80c8fbd5-9e47-43c9-818d-1e394d4f8794)
+
+
+Ending Value: Final index value at the end of the period
+
+Beginning Value: Initial index value at the start of the period
+
+n: Number of years in the time frame
 
 ⚙️ Tech Stack
 
